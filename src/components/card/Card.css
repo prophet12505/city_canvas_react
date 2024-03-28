@@ -1,0 +1,18 @@
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  .card-img-top {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  .card-body {
+    padding: 20px;
+  }
+  .card-title {
+    font-weight: bold;
+  }
+  .card-text {
+    color: #666;
+  }
